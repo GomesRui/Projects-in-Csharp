@@ -11,14 +11,14 @@ namespace CSHttpClientSample
 
     class Program
     {
-        // subscriptionKey = "0123456789abcdef0123456789ABCDEF"
-        private const string subscriptionKey = "fbd6957c05bd45f280165617c9d96c9b";
+        
+        private const string subscriptionKey = "<key>";
 
         // localImagePath = @"C:\Documents\LocalImage.jpg"
         
 
         // Specify the features to return
-        private const string uriBase = "https://westeurope.api.cognitive.microsoft.com/vision/v2.0/analyze";
+        private const string uriBase = "https://<region>.api.cognitive.microsoft.com/vision/v2.0/analyze";
 
         static void Main()
         {
