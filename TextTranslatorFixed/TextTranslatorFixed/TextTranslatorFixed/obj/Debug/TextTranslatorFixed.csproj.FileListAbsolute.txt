@@ -1,0 +1,12 @@
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.ValueTuple.dll
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\System.ValueTuple.xml
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\TextTranslatorFixed.csprojAssemblyReference.cache
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\TextTranslatorFixed.csproj.CoreCompileInputs.cache
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\TextTranslatorFixed.csproj.CopyComplete
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
