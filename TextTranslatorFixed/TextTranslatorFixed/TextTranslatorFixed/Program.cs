@@ -65,10 +65,9 @@ namespace TextTranslatorFixed
             // For a complete list of options, see API reference.
             // https://docs.microsoft.com/azure/cognitive-services/translator/reference/v3-0-translate
             string host = "https://api.cognitive.microsofttranslator.com";
-            string route = "/translate?api-version=3.0&to=de";
-            string subscriptionKey = "e8679b7b48dd4e8fbfa10aebea6f19d2";
-            // Prompts you for text to translate. If you'd prefer, you can
-            // provide a string as textToTranslate.
+            string route = "/translate?api-version=3.0&to=<language to translate>";
+            string subscriptionKey = "<subscription key>";
+            // Prompts you for text to translate. 
             Console.Write("Type the phrase you'd like to translate? ");
             string textToTranslate = Console.ReadLine();
 
