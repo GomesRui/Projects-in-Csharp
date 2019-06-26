@@ -10,3 +10,15 @@ C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\TextTranslato
 C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\TextTranslatorFixed.csproj.CopyComplete
 C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
 C:\Users\v-ruigom\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\bin\Debug\TextTranslatorFixed.exe.config
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\bin\Debug\TextTranslatorFixed.exe
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\bin\Debug\TextTranslatorFixed.pdb
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\bin\Debug\System.ValueTuple.dll
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\bin\Debug\System.ValueTuple.xml
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\obj\Debug\TextTranslatorFixed.csprojAssemblyReference.cache
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\obj\Debug\TextTranslatorFixed.csproj.CoreCompileInputs.cache
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\obj\Debug\TextTranslatorFixed.csproj.CopyComplete
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\obj\Debug\TextTranslatorFixed.exe
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\TextTranslatorFixed\TextTranslatorFixed\TextTranslatorFixed\obj\Debug\TextTranslatorFixed.pdb
