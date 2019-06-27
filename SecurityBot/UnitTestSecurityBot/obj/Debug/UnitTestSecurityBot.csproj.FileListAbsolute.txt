@@ -1,0 +1,2 @@
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\UnitTestSecurityBot\obj\Debug\UnitTestSecurityBot.csprojAssemblyReference.cache
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\UnitTestSecurityBot\obj\Debug\UnitTestSecurityBot.csproj.CoreCompileInputs.cache
