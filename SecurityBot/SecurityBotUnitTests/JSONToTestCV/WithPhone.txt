@@ -1,0 +1,1 @@
+﻿{"objects":[{"rectangle":{"x":337,"y":279,"w":143,"h":119},"object":"person","confidence":0.613},{"rectangle":{"x":455,"y":91,"w":435,"h":580},"object":"cell phone","confidence":0.608,"parent":{"object":"telephone","confidence":0.615}}],"requestId":"68a36db5-6e47-4e94-941d-a12054e4e91f","metadata":{"width":1280,"height":720,"format":"Jpeg"}}

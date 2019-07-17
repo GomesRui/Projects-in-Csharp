@@ -1,0 +1,1 @@
+﻿[{"faceId":"ace103a0-66d4-4e14-b72a-f47d3ab722b5","faceRectangle":{"top":152,"left":420,"width":118,"height":158}}]

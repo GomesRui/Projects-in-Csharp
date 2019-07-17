@@ -1,0 +1,1 @@
+﻿{"objects":[{"rectangle":{"x":2396,"y":1227,"w":312,"h":1259},"object":"tie","confidence":0.722},{"rectangle":{"x":1321,"y":62,"w":2365,"h":2424},"object":"person","confidence":0.974}],"requestId":"87ac4d56-3ef0-4057-8538-e152afefeb87","metadata":{"width":4096,"height":2486,"format":"Jpeg"}}
