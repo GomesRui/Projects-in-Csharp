@@ -10,7 +10,7 @@ namespace SecurityBotUnitTests
     [TestClass]
     public class FaceUnitTests
     {
-        private const string subscriptionKeyFace = "2eca3fe6b363437ab8b54db5daa11989";
+        private const string subscriptionKeyFace = "<key>";
 
         [TestMethod]
         public void CanImageBeDetected_ImageWithPhone_ReturnsTrue() //Method under test _ Scenario tested _ Result
@@ -82,7 +82,7 @@ namespace SecurityBotUnitTests
             face.pResultContentApi = content;
 
             //Act
-            face.validateImage(); //Analyze image
+            face.ValidateImage(); //Analyze image
 
             //Assert
             //Looks for exception
@@ -98,7 +98,7 @@ namespace SecurityBotUnitTests
             face.pResultContentApi = content;
 
             //Act
-            face.validateImage(); //Analyze image
+            face.ValidateImage(); //Analyze image
 
             //Assert
             //Looks for exception
@@ -115,7 +115,7 @@ namespace SecurityBotUnitTests
             //Act
             try
             {
-                face.validateImage(); //Analyze image
+                face.ValidateImage(); //Analyze image
             }
 
             //Assert
@@ -181,7 +181,7 @@ namespace SecurityBotUnitTests
             string inputData = "[{\"faceId\": \"c5c24a82-6845-4031-9d5d-978df9175426\",\"candidates\": [{\"personId\": \"25985303-c537-4467-b41d-bdb45cd95ca1\",\"confidence\": 0.92}]},{\"faceId\": \"65d083d4-9447-47d1-af30-b626144bf0fb\",\"candidates\": [{\"personId\": \"2ae4935b-9659-44c3-977f-61fac20d0538\",\"confidence\": 0.89}]}]";
 
             //Act
-            bool result = face.authenticateImage(inputData, personGroup); //Analyze image
+            bool result = face.AuthenticateImage(inputData, personGroup); //Analyze image
 
             //Console.Write(result);
 
@@ -198,7 +198,7 @@ namespace SecurityBotUnitTests
             string inputData = "[{\"faceId\":\"e6f1f6bd-706d-4ca5-a537-978e226f0b73\",\"candidates\": [{\"personId\":\"c730bc36-37de-4dbc-8d65-3ac04cd3fd5f\",\"confidence\":0.80588}]}]";
 
             //Act
-            bool result = face.authenticateImage(inputData, personGroup); //Analyze image
+            bool result = face.AuthenticateImage(inputData, personGroup); //Analyze image
 
             //Console.Write(result);
 

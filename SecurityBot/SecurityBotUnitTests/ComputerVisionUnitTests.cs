@@ -10,7 +10,7 @@ namespace SecurityBotUnitTests
     [TestClass]
     public class ComputerVisionUnitTests
     {
-        private const string subscriptionComputerVision = "066af27a42d84df8ad9404d17ff9a1c5";
+        private const string subscriptionComputerVision = "<key>";
 
         [TestMethod]
         public void CanImageBeAnalyzed_ImageWithPhone_ReturnsTrue() //Method under test _ Scenario tested _ Result

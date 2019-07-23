@@ -14,10 +14,10 @@ namespace SecurityBotUnitTests
         public void CanBeAuthenticatedWithPassword_ValidInput_ReturnsEqual()
         {
 
-        string dataSource = "securitybotdatabase.database.windows.net"; 
-        string databaseString = "securitybotdatabase";
-        string oracleUser = "sqladmin"; //sqladmin   
-        string oraclePass = "Admin123!"; //Admin123!
+        string dataSource = "<server>.database.windows.net";
+        string databaseString = "<database>";
+        string oracleUser = "<username>";
+        string oraclePass = "<password>";
         int department = 0;
         string username = "GomesRui";
         string password = "GomesRui";
@@ -36,10 +36,10 @@ namespace SecurityBotUnitTests
         public void CanBeAuthenticatedWithPassword_InvalidConnectionStringDatabase_ReturnsException()
         {
             //Arrange
-            string dataSource = "securitybotdatabase.database.windows.net";
-            string databaseString = "securitybotdatabased";
-            string oracleUser = "sqladmin"; //sqladmin   
-            string oraclePass = "Admin123!"; //Admin123!
+            string dataSource = "<server>.database.windows.net";
+            string databaseString = "<database>";
+            string oracleUser = "<username>";
+            string oraclePass = "<password>";
             int department = 0;
             string username = "GomesRui";
             string password = "GomesRui";
@@ -60,10 +60,10 @@ namespace SecurityBotUnitTests
         public void CanBeAuthenticatedWithPassword_InvalidConnectionStringCredentials_ReturnsException()
         {
             //Arrange
-            string dataSource = "securitybotdatabase.database.windows.net";
-            string databaseString = "securitybotdatabase";
-            string oracleUser = "sqladmin"; //sqladmin   
-            string oraclePass = "Admin123"; //Admin123!
+            string dataSource = "<server>.database.windows.net";
+            string databaseString = "<database>";
+            string oracleUser = "<username>";
+            string oraclePass = "<password>";
             int department = 0;
             string username = "GomesRui";
             string password = "GomesRui";
@@ -85,10 +85,10 @@ namespace SecurityBotUnitTests
         public void CanBeAuthenticatedWithPassword_InvalidName_ReturnsException()
         {
             //Arrange
-            string dataSource = "securitybotdatabase.database.windows.net";
-            string databaseString = "securitybotdatabase";
-            string oracleUser = "sqladmin"; //sqladmin   
-            string oraclePass = "Admin123"; //Admin123!
+            string dataSource = "<server>.database.windows.net";
+            string databaseString = "<database>";
+            string oracleUser = "<username>";
+            string oraclePass = "<password>";
             int department = 0;
             string username = "GomeRui";
             string password = "GomesRui";
@@ -110,10 +110,10 @@ namespace SecurityBotUnitTests
         public void CanBeAuthenticatedWithPassword_InvalidPassword_ReturnsException()
         {
             //Arrange
-            string dataSource = "securitybotdatabase.database.windows.net";
-            string databaseString = "securitybotdatabase";
-            string oracleUser = "sqladmin"; //sqladmin   
-            string oraclePass = "Admin123"; //Admin123!
+            string dataSource = "<server>.database.windows.net";
+            string databaseString = "<database>";
+            string oracleUser = "<username>";
+            string oraclePass = "<password>";
             int department = 0;
             string username = "GomesRui";
             string password = "GomeRui";
@@ -135,10 +135,10 @@ namespace SecurityBotUnitTests
         public void CanBeAuthenticatedWithPassword_InvalidDepartment_ReturnsException()
         {
             //Arrange
-            string dataSource = "securitybotdatabase.database.windows.net";
-            string databaseString = "securitybotdatabase";
-            string oracleUser = "sqladmin"; //sqladmin   
-            string oraclePass = "Admin123"; //Admin123!
+            string dataSource = "<server>.database.windows.net";
+            string databaseString = "<database>";
+            string oracleUser = "<username>";
+            string oraclePass = "<password>";
             int department = 1;
             string username = "GomesRui";
             string password = "GomesRui";
