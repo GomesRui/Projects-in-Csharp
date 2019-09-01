@@ -11,3 +11,16 @@ C:\Users\v-ruigom\source\repos\Microsoft.ValidatePhotoSolution\Microsoft.Validat
 C:\Users\v-ruigom\source\repos\Microsoft.ValidatePhotoSolution\Microsoft.ValidatePhoto\bin\Debug\Vse.Web.Serialization.dll
 C:\Users\v-ruigom\source\repos\Microsoft.ValidatePhotoSolution\Microsoft.ValidatePhoto\bin\Debug\Vse.Web.Serialization.pdb
 C:\Users\v-ruigom\source\repos\Microsoft.ValidatePhotoSolution\Microsoft.ValidatePhoto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\Microsoft.ValidatePhoto.exe.config
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\Microsoft.ValidatePhoto.exe
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\Microsoft.ValidatePhoto.pdb
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\obj\Debug\Microsoft.ValidatePhoto.csprojAssemblyReference.cache
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\obj\Debug\Microsoft.ValidatePhoto.csproj.CoreCompileInputs.cache
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\obj\Debug\Microsoft.ValidatePhoto.csproj.CopyComplete
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\obj\Debug\Microsoft.ValidatePhoto.exe
+C:\Users\v-ruigom\Documents\GitHub\Projects-in-Csharp\SecurityBot\Microsoft.ValidatePhoto\obj\Debug\Microsoft.ValidatePhoto.pdb
